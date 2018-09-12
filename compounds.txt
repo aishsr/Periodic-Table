@@ -1,0 +1,96 @@
+CH3COOH
+Acetic Acid
+96.1
+C3H6O
+Acetone
+17.0
+AlCl3
+Aluminum Chloride
+62.1
+Al2(SO4)3
+Aluminum Sulphate
+68.0
+NH3
+Ammonia
+158.4
+NH4Cl
+Ammonium Chloride
+30.0
+(NH4)2C2O4
+Ammonium Oxalate
+207.9
+BaCl2
+Barium Chloride
+180.2
+Ba(NO3)2
+Barium Nitrate
+56.1
+Ca(OH)2
+Calcium Hydroxide
+98.0
+CS2
+Carbon diSulphide
+116.1
+Cr(NO3)3
+Chromium(III) Nitrate
+158.0
+Cr2(SO4)3
+Chromium(III) Sulphate
+69.0
+C6H8O7
+Citric Acid
+80.0
+Cu2Cl2
+Copper(I) Chloride
+284.0
+CuSO4
+Copper(II) Sulphate
+158.5
+C2H5OH
+Ethanol
+125.8
+CH2O2
+Formic Acid
+171.3
+C6H12O6
+Glucose
+74.1
+HCl
+Hydrochloric Acid
+124.1
+HF
+Hydrofluoric Acid
+208.2
+FeCl3
+Iron(III) Chloride
+32.0
+Fe2(SO4)3
+Iron(III) Sulphate
+210.2
+PbCl2
+Lead(II) Chloride
+127.9
+Pb(NO3)2
+Lead(II) Nitrate
+60.1
+KCl
+Potassium Chloride
+175.9
+KIO3
+Potassium Iodate
+138.2
+NaCl
+Sodium Chloride
+162.2
+NaHCO3
+Sodium Hydrogen Carbonate
+162.2
+NaOH
+Sodium Hydroxide
+167.0
+SnCl2
+Tin(II) Chloride
+241.9
+ZnCl2
+Zinc Chloride
+90.1a
